@@ -5381,7 +5381,11 @@ a.credit {
 
 
 
-
+.big-box {
+  border: 20px solid #333; /* 设置边框样式，可以根据需要进行修改 */
+  padding: 100px; /* 设置内边距，增加框框的大小 */
+  background-color: #f0f0f0; /* 设置背景颜色，可以根据需要进行修改 */
+}
 
 
 
